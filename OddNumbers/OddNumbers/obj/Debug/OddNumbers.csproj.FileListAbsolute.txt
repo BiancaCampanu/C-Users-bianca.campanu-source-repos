@@ -1,0 +1,7 @@
+C:\Users\bianca.campanu\source\repos\OddNumbers\OddNumbers\bin\Debug\OddNumbers.exe.config
+C:\Users\bianca.campanu\source\repos\OddNumbers\OddNumbers\bin\Debug\OddNumbers.exe
+C:\Users\bianca.campanu\source\repos\OddNumbers\OddNumbers\bin\Debug\OddNumbers.pdb
+C:\Users\bianca.campanu\source\repos\OddNumbers\OddNumbers\obj\Debug\OddNumbers.csprojAssemblyReference.cache
+C:\Users\bianca.campanu\source\repos\OddNumbers\OddNumbers\obj\Debug\OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bianca.campanu\source\repos\OddNumbers\OddNumbers\obj\Debug\OddNumbers.exe
+C:\Users\bianca.campanu\source\repos\OddNumbers\OddNumbers\obj\Debug\OddNumbers.pdb

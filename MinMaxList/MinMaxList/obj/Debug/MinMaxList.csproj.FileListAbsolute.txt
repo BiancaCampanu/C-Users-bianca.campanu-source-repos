@@ -1,0 +1,7 @@
+C:\Users\bianca.campanu\source\repos\MinMaxList\MinMaxList\bin\Debug\MinMaxList.exe.config
+C:\Users\bianca.campanu\source\repos\MinMaxList\MinMaxList\bin\Debug\MinMaxList.exe
+C:\Users\bianca.campanu\source\repos\MinMaxList\MinMaxList\bin\Debug\MinMaxList.pdb
+C:\Users\bianca.campanu\source\repos\MinMaxList\MinMaxList\obj\Debug\MinMaxList.csprojAssemblyReference.cache
+C:\Users\bianca.campanu\source\repos\MinMaxList\MinMaxList\obj\Debug\MinMaxList.csproj.CoreCompileInputs.cache
+C:\Users\bianca.campanu\source\repos\MinMaxList\MinMaxList\obj\Debug\MinMaxList.exe
+C:\Users\bianca.campanu\source\repos\MinMaxList\MinMaxList\obj\Debug\MinMaxList.pdb
